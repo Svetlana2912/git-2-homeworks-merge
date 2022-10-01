@@ -7,3 +7,5 @@ I like git
 I love mom
 
 I have a dog
+
+I have s cat
