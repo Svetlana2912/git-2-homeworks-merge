@@ -4,6 +4,6 @@
 
 I like git
 
-I have dog
+My new text
 
-I doing my homework
+I am a student
