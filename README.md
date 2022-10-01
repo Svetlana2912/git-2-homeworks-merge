@@ -7,3 +7,5 @@ I love git
 I have dog
 
 My new text
+
+I am a student
