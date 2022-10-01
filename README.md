@@ -4,6 +4,6 @@
 
 I like git
 
-My new text
+I love mom
 
-I am a student
+I have a dog
