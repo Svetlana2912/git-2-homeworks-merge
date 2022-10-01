@@ -2,8 +2,8 @@
 
 01.10.2022
 
-I love git
+I like git
 
 I have dog
 
-My new text
+I doing my homework
